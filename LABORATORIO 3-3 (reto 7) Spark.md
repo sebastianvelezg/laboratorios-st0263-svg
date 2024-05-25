@@ -2,7 +2,9 @@
 
  - Spark en Colab:
  link colab: https://colab.research.google.com/drive/1pzXG3JwjE3Owkx864h0IuXRZ1Klxv0Oa?usp=sharing
+
  link drive: https://drive.google.com/drive/folders/125sPS4ZYMF2M6MUXIv19zJRbdF6Dyz8H?usp=sharing
+ 
  link drive sample_data.csv: https://drive.google.com/file/d/1SLwt6RIlwFqqhuMKcT80x0PcNIUQyGoG/view?usp=sharing
 
 ![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/92d06a45-d196-46c1-a2d9-c7f6373406ee)
