@@ -22,5 +22,23 @@
 
 
  - Spark en AWS:
- link colab: https://colab.research.google.com/drive/1pzXG3JwjE3Owkx864h0IuXRZ1Klxv0Oa?usp=sharing
- link drive: https://drive.google.com/drive/folders/125sPS4ZYMF2M6MUXIv19zJRbdF6Dyz8H?usp=sharing
+
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/438761b8-0112-4df6-bd32-5a6c135c5c82)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/810c8966-9208-40a6-81f2-42b7739213d5)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/bf32ec86-1f67-46ae-b6a4-6848460e4754)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/4d267adc-e6de-4427-bef2-aa75eba07b60)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/b628d989-fcfe-4f80-b5c2-69ef1954c8c5)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/3baac524-95fa-4650-8cb3-63ac066b8b92)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/568dd496-dddd-4a2b-9f99-f6c6d445040e)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/61bea3bb-fcb2-47d1-a5af-9243e373b3aa)
+![image](https://github.com/sebastianvelezg/laboratorios-st0263-svg/assets/68916783/2fb36faa-86f6-437d-aaa1-7466c0ee407d)
+
+
+
+
+
+
+
+
+
+
